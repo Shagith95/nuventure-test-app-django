@@ -23,7 +23,7 @@ Use the following URL to get the API response
 
     http://localhost:8000/myapp/get_address/<lat>/<lon>/
 
-Use this [link](http://localhost:8000/myapp/get_address/-34.4391708/-58.7064573/) to access (-34.4391708, -58.7064573) once the development server is running
+Use this [link](http://localhost:8000/myapp/get_address/-34.4391708/-58.7064573/) to access address for coordinates (-34.4391708, -58.7064573) once the development server is running
 
 # Running Test
 
