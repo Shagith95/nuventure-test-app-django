@@ -18,7 +18,8 @@ Start the Django development server locally by
 Use the following URL to get the API response
 
 > lat - Latitude coordinate
-> lon - longitude coordinate
+
+> lon - Longitude coordinate
 
     http://localhost:8000/myapp/get_address/<lat>/<lon>/
 
@@ -26,6 +27,6 @@ Use this [link](http://localhost:8000/myapp/get_address/-34.4391708/-58.7064573/
 
 # Running Test
 
-Start the Django development server locally by
+Run the Django test by
 
     python manage.py test
